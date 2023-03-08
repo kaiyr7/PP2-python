@@ -4,5 +4,4 @@ def truetuple():
         if(bool(i) == False):
             return False
     return True
-# i could use all()
 print(truetuple())
